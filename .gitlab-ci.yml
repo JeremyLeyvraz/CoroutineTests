@@ -59,3 +59,4 @@ deploy-job:      # This job runs in the deploy stage.
     - echo "Application successfully deployed."
   tags:
     - Test Asus
+
